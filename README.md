@@ -12,5 +12,3 @@ http://help.market.com.br/csharp/hmfile_hash_6c8b0b18.png
 
 <img width="1024" height="1024" alt="Teste Técnico" src="https://github.com/user-attachments/assets/35dbf389-44a2-45b3-abb2-f347cec04359" />
 
-<img width="1024" height="1024" alt="Teste Técnico Arquitetura" src="https://github.com/user-attachments/assets/28b1ccdf-6796-4653-8fd7-42051d51f981" />
-
